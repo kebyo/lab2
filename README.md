@@ -7,5 +7,5 @@
 
 ### Авторы: 
 * Ойбек Муслимов М3202 ([@kebyo](https://github.com/kebyo))
-* Илья Рогулин М2304 ([@ilushaR](https://github.com/ilushaR))
+* Илья Рогулин М3204 ([@ilushaR](https://github.com/ilushaR))
 

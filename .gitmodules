@@ -1,0 +1,3 @@
+[submodule "ITMO-Software-development-tools"]
+	path = ITMO-Software-development-tools
+	url = https://github.com/kebyo/ITMO-Software-development-tools
